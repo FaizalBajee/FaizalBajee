@@ -1,4 +1,5 @@
 👋 Hi, I’m Faizal Bajee
+
 🌐 REST API Developer | Backend Enthusiast | Node.js & Express Specialist
 
 - 👀 I’m interested in building websites and applications
