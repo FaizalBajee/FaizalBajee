@@ -48,3 +48,21 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shyjutech&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyjutech&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+## 📈 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=shyjutech&theme=radical&hide_border=true)
+
+</div>
+
