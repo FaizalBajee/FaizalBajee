@@ -55,4 +55,10 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=faizalbajee&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
+## 📊 GitHub Stats
 
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizalbajee&layout=compact&theme=radical&hide_border=true)
+
+</div>
