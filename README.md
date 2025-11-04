@@ -52,7 +52,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=faizalbajee&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=faizalbajee&theme=dark&hide_border=false)
 
 </div>
 
