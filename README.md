@@ -48,7 +48,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
