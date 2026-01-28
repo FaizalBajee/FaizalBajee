@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizal Bajee</h1>
-<h3 align="center">🚀 Full-Stack MERN Developer | ERP, Real-Time Apps, Performance-Driven APIs
+<h3 align="center">🚀 Full-Stack Developer | ERP, Real-Time Apps, Performance-Driven APIs
 </h3>
 
 ![Banner](https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif)
