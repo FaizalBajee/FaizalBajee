@@ -49,19 +49,5 @@
   </a>
 </p>
 
-## 📊 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=faizalbajee&theme=dark&hide_border=false)
-
-</div>
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizalbajee&layout=compact&theme=radical&hide_border=true)
-
 </div>
 
